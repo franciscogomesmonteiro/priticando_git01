@@ -1,0 +1,2 @@
+Aqui vem uma mensgem qualquer para traticar ainda
+mais nossos conhecimentos em git.
