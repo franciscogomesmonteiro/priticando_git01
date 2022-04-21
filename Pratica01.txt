@@ -1,1 +1,4 @@
 Meus primeiros passos em Git.
+
+Adcionei quebras de linhas no arquivo, tenho que 
+atualizar né verdade?
